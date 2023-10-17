@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img  src="https://github.com/LukaDPavic/smartEdu/assets/96302829/d2f5160f-2b97-4097-bab7-fea80da8355b" alt="SmartEdu-Logo" height="110px" />
+  <img  src="https://github.com/LukaDPavic/smartEdu/assets/96302829/d2f5160f-2b97-4097-bab7-fea80da8355b" alt="SmartEdu-Logo" height="130px" />
 </p>
 
 <h1 align="center"> smartEdu </h1>
