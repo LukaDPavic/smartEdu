@@ -36,7 +36,7 @@ export default function Navbar() {
                                 <div className="flex flex-shrink-0 items-center">
                                     <img
                                         className="h-8 w-auto"
-                                        src="../../assets/images/logo.png"
+                                        src="/assets/images/logo.png"
                                         alt="smartEdu"
                                     />
                                 </div>
