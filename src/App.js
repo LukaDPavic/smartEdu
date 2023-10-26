@@ -1,13 +1,15 @@
-import './App.css';
-import React from 'react';
-import Navbar from './components/Navbar';
+import { Component } from 'react';
+import RouterPages from "./utils/RouterPages";
+import Navbar from "./components/Navbar"
 
-function App() {
-    return (
-        <div>
-            <Navbar />
-        </div>
-    );
+
+export default class App extends Component {
+    render(){
+        return(
+            <>
+                <Navbar/>
+                <RouterPages/>
+            </>
+        )
+    }
 }
-
-export default App;
